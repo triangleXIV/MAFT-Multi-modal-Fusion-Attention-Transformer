@@ -1,4 +1,4 @@
-# MAFT-Multi-modal-Fusion-Attention-Transformer
+# MAFT：Multi-modal Fusion Attention Transformer
 这是一个论文的源码，目前只能提供部分代码在jupyter notebook上的实验结果，当我整理完毕代码后会上传完整的python项目文件。  
 This is the source code for a paper. Currently, only partial code and experimental results on Jupyter Notebook are available. Once I have organized the complete code, I will upload the full Python project files.
 
