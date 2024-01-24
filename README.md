@@ -1,6 +1,6 @@
 # MAFT：Multi-modal Fusion Attention Transformer
-这是一个论文的源码，目前只能提供部分代码在jupyter notebook上的实验结果，当我整理完毕代码后会上传完整的python项目文件。  
-This is the source code for a paper. Currently, only partial code and experimental results on Jupyter Notebook are available. Once I have organized the complete code, I will upload the full Python project files.
+这是一个论文的源码，目前只能提供部分代码在jupyter notebook上的实验结果，当我整理完毕代码后会上传完整的python项目文件。所使用的数据集和预训练模型如下，这些数据集和预训练模型并非原创，是公开的。  
+This is the source code for a paper. Currently, only partial code and experimental results on Jupyter Notebook are available. Once I have organized the complete code, I will upload the full Python project files.The datasets and pre-trained models are not original and are publicly available.
 
 数据集下载(Twitter15/17)见如下链接  
 The dataset used can be downloaded from:   
