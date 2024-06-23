@@ -33,7 +33,7 @@ The dataset and pre-trained models actually used in this paper（Choose either 1
 运行train.py开始模型的训练，在训练开始前，请保证模型满足如下结构：
 
 Run train.py to start the model training. Before starting the training, please ensure that the model meets the following structure:
-'''
+```
 ├─.idea
 │  └─inspectionProfiles
 ├─models
@@ -48,4 +48,4 @@ Run train.py to start the model training. Before starting the training, please e
 │  └─img_data
 │      ├─twitter2015_images
 │      └─twitter2017_images
-'''
+```
