@@ -30,9 +30,9 @@ The dataset and pre-trained models actually used in this paper（Choose either 1
 [123pan](https://www.123pan.com/s/f3giVv-JKS3H.html)||[onedrive](https://1drv.ms/f/s!Akl56EV1csnmokSrk4mguoLljFqN?e=G060F7)
 
 <br><br>
-运行train.py开始模型的训练，在训练开始前，请保证模型满足如下结构：
+运行train.py开始模型的训练，在训练开始前，请保证项目满足如下结构：
 
-Run train.py to start the model training. Before starting the training, please ensure that the model meets the following structure:
+Run train.py to start the model training. Before starting the training, please ensure that the project meets the following structure:
 ```
 ├─.idea
 │  └─inspectionProfiles
