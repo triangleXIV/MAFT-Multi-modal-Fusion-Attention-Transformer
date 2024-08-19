@@ -1,5 +1,9 @@
 # MFAT：Multi-modal Fusion Attention Transformer
 
+For the implementation of the Chinese dataset Multi-ZOL, please refer to our (other code)[https://github.com/triangleXIV/DIST-Deep-Interaction-Sentiment-Transformer].
+
+
+
 你可以选择官方所提供的数据集和预训练模型，或者用我上传的实际使用的数据集和预训练模型：
 
 You can choose the dataset and pre-trained models provided by the official sources, or use the dataset and pre-trained models that I have uploaded:
